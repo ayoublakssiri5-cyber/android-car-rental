@@ -95,4 +95,4 @@ Built as an academic project. Parts of the code were produced with the help of A
 
 The original code of this project is released under the [MIT License](LICENSE).
 
-The MIT License does **not** cover third-party material: the Gradle Wrapper (`gradlew`, `gradlew.bat`, `gradle/wrapper/`, Apache License 2.0), the npm packages referenced by `stripe-backend/package.json` and the libraries downloaded at build time, which keep their own licenses. See [`LICENSE`](LICENSE).
+The MIT License does **not** cover third-party material: the Gradle Wrapper (`gradlew`, `gradlew.bat`, `gradle/wrapper/`, Apache License 2.0), the npm packages referenced by `stripe-backend/package.json` and the libraries downloaded at build time, which keep their own licenses. See [`NOTICE.md`](NOTICE.md).
