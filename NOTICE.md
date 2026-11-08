@@ -2,9 +2,8 @@
 
 The [MIT License](LICENSE) of this repository applies only to the original work of its author.
 
-The MIT License above applies only to the original work of the copyright
-holder in this repository. It does not apply to the following third-party
-material, which remains under its own license:
+It does not apply to the following third-party material, which remains under
+its own license:
 
 - Gradle Wrapper (gradlew, gradlew.bat, gradle/wrapper/*): Apache License 2.0,
   Copyright 2015 the original authors (Gradle project).
