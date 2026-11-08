@@ -1,0 +1,30 @@
+# Gradle / Android Studio
+.gradle/
+.idea/
+build/
+app/build/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Build outputs and signing material
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Secrets and dependencies of the Stripe server
+.env
+node_modules/
+
+# Data: never commit real databases or screenshots of real users
+*.db
+*.db-journal
+app/src/main/assets/preloaded/
+/*.png
+/*.jpg
+/*.xml
+capture*.png
+emulator*.png

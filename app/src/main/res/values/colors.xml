@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navyDeep">#050B1F</color>
+    <color name="navyMid">#0D1B3E</color>
+    <color name="navyLight">#1A237E</color>
+    <color name="primaryBlue">#1565C0</color>
+    <color name="primaryBlueLight">#1976D2</color>
+    <color name="skyBlue">#42A5F5</color>
+    <color name="accentOrange">#FF6F00</color>
+    <color name="accentOrangeLight">#F57C00</color>
+    <color name="accentGreen">#2E7D32</color>
+    <color name="accentGreenLight">#43A047</color>
+    <color name="accentPurple">#6A1B9A</color>
+    <color name="accentPurpleLight">#8E24AA</color>
+    <color name="accentAmber">#E65100</color>
+    <color name="pageBackground">#F5F7FF</color>
+    <color name="surfaceWhite">#FFFFFF</color>
+    <color name="surfaceCard">#FFFFFF</color>
+    <color name="textPrimary">#050B1F</color>
+    <color name="textSecondary">#9999B3</color>
+    <color name="textHint">#C0C0D8</color>
+    <color name="borderLight">#E8ECFF</color>
+    <color name="inputBg">#F5F7FF</color>
+    <color name="successBg">#EAF3DE</color>
+    <color name="successText">#27500A</color>
+    <color name="dangerBg">#FCEBEB</color>
+    <color name="dangerText">#791F1F</color>
+    <color name="infoBg">#E6F1FB</color>
+    <color name="infoText">#0C447C</color>
+    <color name="amberBg">#FFF3E0</color>
+    <color name="amberText">#E65100</color>
+    <color name="purpleBg">#F3E5F5</color>
+    <color name="purpleText">#6A1B9A</color>
+    <color name="glassWhite">#1AFFFFFF</color>
+    <color name="glassBorder">#33FFFFFF</color>
+
+    <color name="navy">#050B1F</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#050B1F</color>
+    <color name="accent">#FF6F00</color>
+    <color name="surface">#F5F7FF</color>
+    <color name="text_main">#050B1F</color>
+</resources>

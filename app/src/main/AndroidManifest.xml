@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_car"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_car"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".ui.ClientFormActivity" />
+        <activity android:name=".ui.ClientListActivity" />
+        <activity android:name=".ui.PaymentFormActivity" />
+        <activity android:name=".ui.PaymentListActivity" />
+        <activity android:name=".ui.ReservationFormActivity" />
+        <activity android:name=".ui.ReservationListActivity" />
+        <activity android:name=".ui.CarMapActivity" />
+        <activity android:name=".ui.CarFormActivity" />
+        <activity android:name=".ui.CarListActivity" />
+        <activity android:name=".ui.DashboardActivity" />
+        <activity android:name=".ui.RegisterActivity" />
+        <activity android:name=".ui.LoginActivity" />
+        <activity
+            android:name=".ui.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
